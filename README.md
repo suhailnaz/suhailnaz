@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @suhail_n
 - 👀 I’m interested in Programming
-- 🌱 I’m currently Computer Science
+- 🌱 I’m currently doing Computer Science
 - 💞️ I’m looking to collaborate on implementing AI in assisting Web development
 - 📫 How to reach me +917561862994
 
